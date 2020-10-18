@@ -11,7 +11,7 @@ env:
   ### USER PROVIDED VALUES ARE REQUIRED BELOW   ###
   #################################################
   #################################################
-  ### REPLACE USERNAME WITH GH USERNAME         ###
+  ### REPLACE USERNAME WITH GH USERNAME  Test       ###
   AZURE_WEBAPP_NAME: lintao-shen-ttt-app
   #################################################
 
